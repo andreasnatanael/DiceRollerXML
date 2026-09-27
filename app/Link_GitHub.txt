@@ -1,4 +1,4 @@
 LINK REPOSITORY GITHUB
 
 Repository:
-[TULIS LINK GITHUB DI SINI]
+( https://github.com/andreasnatanael/DiceRollerXML )
